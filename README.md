@@ -430,3 +430,5 @@ Finding Things
 
     $([command]) inserts a command’s output in place.
 
+## The workshop completed on 19th Nov 2020
+This hands-on software carpenatary workshop is very informative and help graduate students, researchers to learn about git, github, version control and data management. 
