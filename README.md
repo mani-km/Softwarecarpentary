@@ -1,6 +1,6 @@
 # Softwarecarpentary
 The workshop organised by GSLS, learning git, github, gitbash shell
-It contains nice software for performaning data analysis.
+It contains nice software but need time to learn for performaning data analysis.
 
 ## Usage of software
 Description
