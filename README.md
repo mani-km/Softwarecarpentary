@@ -300,9 +300,3 @@ Ideas for the last day
     Plotting Data: Votes
 
 
-#Schedule for the last day
-14:00-15:30 1 + 2 (session for all)
-15:30-16:00 Break
-16:00-17:00 Separate Sessions with Breakout Rooms (ASK TO BE ASSIGNED!)
-17:00-17:15 Spotlight Software Design(Each instructor quickly gives his thoughts)
-17:15-17:30 Wrapup, Post-workshop Survey
