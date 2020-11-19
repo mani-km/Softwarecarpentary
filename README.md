@@ -302,7 +302,7 @@ Ideas for the last day
 
 
 ################ The Unix Shell: Summary of Basic Commands 
-The Unix Shell: Summary of Basic Commands 
+
 Key Points
 Introducing the Shell 	
 
